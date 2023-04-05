@@ -20,12 +20,12 @@ DEPENDENCIES = (
     # Note: these dependency versions should be kept in-sync with the versions
     # specified in the docker container requirements files.
     'google-auth>=1.17.2',
-    'ipykernel~=5.5.6',
+    'ipykernel~=6.22.0',
     'ipython~=7.34.0',
     'notebook==6.4.8',
     'pandas~=1.5.3',
     'portpicker~=1.3.1',
-    'requests>=2.27.0',
+    'requests~=2.27.0',
     'tornado~=6.2',
 )
 
