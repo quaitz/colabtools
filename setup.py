@@ -27,6 +27,7 @@ DEPENDENCIES = (
     'portpicker~=1.3.1',
     'requests>=2.27.0',
     'tornado~=6.2.0',
+    'pytz>=2011.1.0',
 )
 
 setup(
